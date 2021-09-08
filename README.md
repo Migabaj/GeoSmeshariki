@@ -7,6 +7,6 @@
 - Серии, в которых оно упоминается
 - Ссылки на соответсвующие моменты в YouTube (вместе с отметкой времени)
 
-[Презентация](https://docs.google.com/presentation/d/165hWZFdqW4asXFklzB0RRcfL8ALzXZUlTk5c0Qy24Ck/edit?usp=sharing)
+[Презентация](https://docs.google.com/presentation/d/165hWZFdqW4asXFklzB0RRcfL8ALzXZUlTk5c0Qy24Ck/edit?usp=sharing).
 
 Если ты не нашел на карте места/упоминания, про которое ты точно помнишь, что оно было в Смешариках -- пиши [сюда](https://forms.gle/etvMGztnxDfYqLh86).
